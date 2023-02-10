@@ -1,6 +1,6 @@
 ### 👋🏽  I'm Chris Lopez (He/Him/Él)
 
-🔭 I'm currently working Python/Flask application called [Super Social Reader](https://github.com/Lopez-CL/super_social_reader). It's a social reader tracker, specifically for the superhero comic book community. Hoping incorporate some AJAX for API integration.
+🔭 I'm currently working on Python/Flask application called [Super Social Reader](https://github.com/Lopez-CL/super_social_reader). It's a social reader tracker, specifically for the superhero comic book community. Hoping incorporate some AJAX for API integration.
 
 🌱 I've just finished a software engineer cerrtification program at the [The Coding Dojo](https://www.codingdojo.com/online-coding-bootcamp-part-time). I focused on learning full-stack webdevelopment with Python and MERN. Will go through parts of the stacks I didn't have time for to soldify my understanding and competency in them.
 
